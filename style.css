@@ -1,0 +1,82 @@
+@font-face {
+	font-family: Quicksand-Light;
+	src: url(quicksand/Quicksand-Light.otf);
+}
+p {
+	color: white;
+	font-family: Quicksand-Light;
+}
+.imp {
+	font-style: bold;
+}
+header {
+	background-color: #ee4540;
+	color: white;
+	display: flex;
+	justify-content: space-around; 
+	border: 1px solid #ee4540;
+	border-width: 100%;
+	font-size: 45px;
+	font-family: Quicksand-Light;
+	margin-top: -0px;
+}
+nav {
+	font-size: 30px;
+}
+ul {
+	font-family: Quicksand-Light;
+	background-color: #c72c41;
+	color: white;
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	height: 100px;
+	align-items: center;
+	margin-bottom: -0px;
+}
+.rea {
+	text-decoration: none;
+	color: white;
+}
+.lab {
+	text-decoration: none;
+	color: white;
+}
+body {
+	background-color: #2d1420;
+}
+main {
+	background-color: #510a32;
+}
+.hub {
+	height: 500px;
+	align-items: center;
+}
+.kat {
+	border: 1px solid #510a32;
+	border-radius: 18px;
+	margin-top: 45px;
+	height: 400px;
+	width: auto;
+}
+#foot {
+	font-family: Quicksand-Light;
+	color: #ffffff;
+	background-color: #2d142c;
+}
+footer {
+	text-decoration: none;
+	color: white;
+}
+.nav {
+	background-color: #c72c41;
+	justify-content: space-around;
+}
+.com {
+	border: 1px solid #ffffff;
+	opacity: 0.5px;
+}
+form {
+	margin: 200px
+}
