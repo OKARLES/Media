@@ -23,6 +23,14 @@ header {
 nav {
 	font-size: 30px;
 }
+.bayon {
+	width: 150vh;
+	height: 150vh;
+}
+.bayon>img {
+	width: 100%;
+	height: 100%;
+}
 ul {
 	font-family: Quicksand-Light;
 	background-color: #c72c41;
